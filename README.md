@@ -14,4 +14,5 @@ https://github.com/hslatman/awesome-threat-intelligence
 [MILE - Managed Incident Lightweight Exchange workgroup](https://datatracker.ietf.org/wg/mile/about/)  
   - [IODEF - Incident Object Description Exchange](https://datatracker.ietf.org/doc/rfc8274/)  
   - [RID - Real time Inter-network Defense](https://datatracker.ietf.org/doc/rfc6545/)  
+
 [OpenIOC - Mandiant](https://www.mandiant.com/resources/blog/openioc-basics)  
