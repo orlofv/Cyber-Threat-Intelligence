@@ -10,7 +10,7 @@ An exhaustive collection of resources used in my studies for the CRTIA
 
   
 ## 1. Blog posts & Articles 
-[Getting started in cyber threat intelligence: 4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
+Getting started in cyber threat intelligence: [4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
 
 [A Top 10 Reading List if You’re Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798)  
 
@@ -26,7 +26,7 @@ https://github.com/hslatman/awesome-threat-intelligence
   - [IODEF](https://datatracker.ietf.org/doc/rfc8274/) - Incident Object Description Exchange
   - [RID](https://datatracker.ietf.org/doc/rfc6545/) - Real time Inter-network Defense
 
-[OpenIOC - Mandiant](https://www.mandiant.com/resources/blog/openioc-basics)  
+[OpenIOC](https://www.mandiant.com/resources/blog/openioc-basics) - Mandiant  
 
 [VERIS - Vocabulary for Event Recording and Incident Sharing (verizon)](https://github.com/vz-risk/veris)  
 
