@@ -12,7 +12,7 @@ An exhaustive collection of resources used in my studies for the CRTIA
 
 [CTI Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)  
 
-### Tools & Collection
+### Tools & Collections
 https://github.com/hslatman/awesome-threat-intelligence  
 
 ## 4. Standards and Frameworks
