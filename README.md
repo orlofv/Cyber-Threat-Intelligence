@@ -10,4 +10,4 @@ An exhaustive collection of resources used in my studies for the CRTIA
 https://github.com/hslatman/awesome-threat-intelligence
 
 ## Standards and Frameworks
-[Traffic Ligt Protocol (TLP)](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage#:~:text=The%20Traffic%20Light%20Protocol%20(TLP,by%20the%20recipient)
+[Traffic Ligt Protocol (TLP)](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)
