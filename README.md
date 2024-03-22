@@ -5,8 +5,8 @@ An exhaustive collection of resources used in my studies for the CRTIA
 - [1. Blog posts & Articles](#blog-posts--articles)
 - [2. Tools & Collections](#tools--collections)
 - [3. Standards & Frameworks](#standards--frameworks)
--   [3.1 Mitre Standards - CTI management](#mitre-standards---cti-management)
--     [3.1.1 
+  -   [3.1 Mitre Standards - CTI management](#mitre-standards---cti-management)
+    -     [3.1.1 
 ### Blog posts & Articles 
 [Getting started in cyber threat intelligence: 4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
 
