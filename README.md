@@ -28,7 +28,8 @@ https://github.com/hslatman/awesome-threat-intelligence
 
 ## 5. Help Me Understand with ChatGPT :) 
 
-Q: What's the difference between CybOX and VERIS 
+Q: What's the difference between CybOX and VERIS   
+
 A: CybOX and VERIS serve similar purposes in the cybersecurity domain by standardizing the way cybersecurity incidents are described, but they focus on different aspects. CybOX details the technical specifications of cyber threats and incidents, aiming for precise descriptions of observables in the cyber environment. VERIS, developed by Verizon, focuses more on categorizing and analyzing security incidents from a business impact perspective, including what happened, how it happened, and the effect on the organization. Essentially, CybOX is more about the technical "signatures," while VERIS is about the incident "story" and its implications.  
 
 
