@@ -4,7 +4,9 @@ An exhaustive collection of resources used in my studies for the CRTIA
 ## Table of Contents 
 - [1. Blog posts & Articles](#blog-posts--articles)
 - [2. Tools & Collections](#tools--collections)
-- 
+- [3. Standards & Frameworks](#standards--frameworks)
+-   [3.1 Mitre Standards - CTI management](#mitre-standards---cti-management)
+-     [3.1.1 
 ### Blog posts & Articles 
 [Getting started in cyber threat intelligence: 4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
 
@@ -15,7 +17,7 @@ An exhaustive collection of resources used in my studies for the CRTIA
 ### Tools & Collections
 https://github.com/hslatman/awesome-threat-intelligence  
 
-## 4. Standards and Frameworks
+### Standards and Frameworks
 [TLP - Traffic Light Protocol](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  
 
 [MILE - Managed Incident Lightweight Exchange workgroup](https://datatracker.ietf.org/wg/mile/about/)  
@@ -26,7 +28,7 @@ https://github.com/hslatman/awesome-threat-intelligence
 
 [VERIS - Vocabulary for Event Recording and Incident Sharing (verizon)](https://github.com/vz-risk/veris)  
 
-### 4.1 Mitre Standards - CTI management  
+#### Mitre Standards - CTI management  
 
 [CybOX](https://cybox.mitre.org/about/)
 
