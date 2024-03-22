@@ -20,7 +20,7 @@ CTI [Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)
 https://github.com/hslatman/awesome-threat-intelligence  
 
 ## 3. Standards and Frameworks
-[TLP - Traffic Light Protocol](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  
+[TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol 
 
 [MILE](https://datatracker.ietf.org/wg/mile/about/) - Managed Incident Lightweight Exchange workgroup
   - [IODEF](https://datatracker.ietf.org/doc/rfc8274/) - Incident Object Description Exchange
@@ -28,7 +28,7 @@ https://github.com/hslatman/awesome-threat-intelligence
 
 [OpenIOC](https://www.mandiant.com/resources/blog/openioc-basics) - Mandiant  
 
-[VERIS - Vocabulary for Event Recording and Incident Sharing (verizon)](https://github.com/vz-risk/veris)  
+[VERIS](https://github.com/vz-risk/veris)   - Vocabulary for Event Recording and Incident Sharing (verizon)
 
 ### 3.1 Mitre Standards - CTI management  
 Mitre has developed three standards that each fill different needs for a CTI
