@@ -2,9 +2,9 @@
 An exhaustive collection of resources used in my studies for the CRTIA
 
 ## Table of Contents 
-- [2. Blog posts & Articles](#blog-posts--articles)
+- [1. Blog posts & Articles](#blog-posts--articles)
 - 
-### Blog posts & Articles 
+### 1. Blog posts & Articles 
 [Getting started in cyber threat intelligence: 4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
 
 [A Top 10 Reading List if You’re Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798)  
