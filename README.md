@@ -6,7 +6,8 @@ An exhaustive collection of resources used in my studies for the CRTIA
 - [2. Tools & Collections](#tools--collections)
 - [3. Standards & Frameworks](#standards--frameworks)
   -   [3.1 Mitre Standards - CTI management](#mitre-standards---cti-management)
-    -     [3.1.1 
+    -     [3.1.1
+- [4. Help Me Understand with ChatGPT :)](#4-help-me-understand-with-chatgpt-)  
 ### Blog posts & Articles 
 [Getting started in cyber threat intelligence: 4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
 
@@ -32,7 +33,7 @@ https://github.com/hslatman/awesome-threat-intelligence
 
 [CybOX](https://cybox.mitre.org/about/)
 
-## 5. Help Me Understand with ChatGPT :) 
+## 4 Help Me Understand with ChatGPT :) 
 
 Q: What's the difference between CybOX and VERIS   
 
