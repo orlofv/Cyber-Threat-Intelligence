@@ -22,9 +22,9 @@ https://github.com/hslatman/awesome-threat-intelligence
 ## 3. Standards and Frameworks
 [TLP - Traffic Light Protocol](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  
 
-[MILE - Managed Incident Lightweight Exchange workgroup](https://datatracker.ietf.org/wg/mile/about/)  
-  - [IODEF - Incident Object Description Exchange](https://datatracker.ietf.org/doc/rfc8274/)  
-  - [RID - Real time Inter-network Defense](https://datatracker.ietf.org/doc/rfc6545/)  
+[MILE](https://datatracker.ietf.org/wg/mile/about/) - Managed Incident Lightweight Exchange workgroup
+  - [IODEF](https://datatracker.ietf.org/doc/rfc8274/) - Incident Object Description Exchange
+  - [RID](https://datatracker.ietf.org/doc/rfc6545/) - Real time Inter-network Defense
 
 [OpenIOC - Mandiant](https://www.mandiant.com/resources/blog/openioc-basics)  
 
