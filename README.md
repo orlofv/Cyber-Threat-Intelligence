@@ -35,7 +35,7 @@ https://github.com/hslatman/awesome-threat-intelligence
 
 [CybOX](https://cybox.mitre.org/about/)
 
-## 4 Help Me Understand with ChatGPT :) 
+## 4. Help Me Understand with ChatGPT :) 
 
 Q: What's the difference between CybOX and VERIS   
 
