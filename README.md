@@ -3,6 +3,7 @@ An exhaustive collection of resources used in my studies for the CRTIA
 
 ## Table of Contents 
 - [1. Blog posts & Articles](#blog-posts--articles)
+- [2. Tools & Collections](#tools--collections)
 - 
 ### 1. Blog posts & Articles 
 [Getting started in cyber threat intelligence: 4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
@@ -11,7 +12,7 @@ An exhaustive collection of resources used in my studies for the CRTIA
 
 [CTI Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)  
 
-## 3. Tools & Collection
+### 2. Tools & Collection
 https://github.com/hslatman/awesome-threat-intelligence  
 
 ## 4. Standards and Frameworks
