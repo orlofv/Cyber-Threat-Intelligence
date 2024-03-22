@@ -31,6 +31,9 @@ https://github.com/hslatman/awesome-threat-intelligence
 [VERIS - Vocabulary for Event Recording and Incident Sharing (verizon)](https://github.com/vz-risk/veris)  
 
 ### 3.1 Mitre Standards - CTI management  
+Mitre has developed three standards that each fill different needs for a CTI
+management system.  
+
 
 [CybOX](https://cybox.mitre.org/about/)
 
