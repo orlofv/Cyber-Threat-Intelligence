@@ -4,7 +4,7 @@ An exhaustive collection of resources used in my studies for the CRTIA
 ## Table of Contents 
 - [1. Blog posts & Articles](#1-blog-posts--articles)
 - [2. Tools & Collections](#2-tools--collections)
-- [3. Standards & Frameworks](#3-standards--frameworks)
+- [3. Standards & Frameworks](#3-standards-and-frameworks)
   -   [3.1 Mitre Standards - CTI management](#31-mitre-standards---cti-management)
 - [4. Help Me Understand with ChatGPT :)](#4-help-me-understand-with-chatgpt-)
 
