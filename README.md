@@ -6,7 +6,7 @@ An exhaustive collection of resources I used in my and studie for the CRTIA exam
 - [2. Tools & Collections](#2-tools--collections)
 - [3. Standards & Frameworks](#3-standards-and-frameworks)
   -   [3.1 Mitre Standards - CTI management](#31-mitre-standards---cti-management)
-- [4. Help Me Understand with ChatGPT :)](https://github.com/slashparity/CTI-Resources/blob/main/Help%20Me%20Understand%20with%20ChatGPT%20:)/README.md#description)
+- [4. Help Me Understand with ChatGPT :)](https://github.com/slashparity/CTI-Resources/tree/main/Help%20me%20understand%20with%20ChatGPT#description)
 
 
   
