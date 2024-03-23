@@ -4,6 +4,7 @@ All the questions I asked ChatGPT, concepts I had trouble understanding or neede
 ## Q&A Index
 - [What's the difference between CybOX and VERIS](#Q1)
 - [Which are the most common/popular frameworks and protocols used in CTI today (2024)?](#Q2)
+- [TL;DR ELI5 Stix protocol terms SDO and SRO](#Q3)
 
 ### Q1
 **What's the difference between CybOX and VERIS**
@@ -30,5 +31,19 @@ While not exclusively CTI protocols, CycloneDX and SWID tags are increasingly us
 As mentioned previously, IODEF is a standard for describing cybersecurity incidents in a common format to improve incident response and cooperation among different entities. It's particularly valued in communities where rapid and clear communication about incidents is critical. These protocols and frameworks are crucial for cybersecurity operations, enabling better detection, response, and understanding of cyber threats. The choice among them often depends on the specific needs of an organization, such as the type of threat intelligence being shared, the organization's role within the cybersecurity ecosystem, and interoperability requirements with existing tools and platforms.
 
 ---
+
+### Q3 
+**TL;DR ELI5 Stix protocol terms SDO and SRO**  
+
+Imagine you have a big box of LEGO blocks. Each type of block represents a different piece of information about cyber threats, like clues about a hacker's methods or a dangerous software bug.
+
+SDO (Structured Data Object) in STIX is like a specific type of LEGO block. Each SDO is a detailed piece of information. For example, one block might represent a warning about a bad piece of software (malware), while another block might be a tip about how hackers break into systems.
+
+SRO (Structured Relationship Object) is like a LEGO connector that helps you snap two blocks together. It tells you how these pieces of information are related. For instance, an SRO could connect a malware block to a hacker method block, showing that this particular malware is used with that method.
+
+So, using STIX, you're building a model out of these LEGO blocks (SDOs) and connectors (SROs) to understand and show how different cyber threats are linked together, helping cybersecurity folks see the big picture and stop the bad guys more effectively.
+
+---
+
 
 
