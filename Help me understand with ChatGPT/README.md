@@ -2,10 +2,10 @@
 All the questions I asked ChatGPT, concepts I had trouble understanding or needed a different take. 
 
 ## Q&A Index
-- [Q1 What's the difference between CybOX and VERIS](#Q1)
-- [Q2 Which are the most common/popular frameworks and protocols used in CTI today (2024)?](#Q2)
-- [Q3 TL;DR ELI5 Stix protocol terms SDO and SRO](#Q3)
-- [Q4 Outline the differences between MISP and OpenCTI](#Q4)
+- Q1: [What's the difference between CybOX and VERIS](#Q1)
+- Q2: [Which are the most common/popular frameworks and protocols used in CTI today (2024)?](#Q2)
+- Q3: [TL;DR ELI5 Stix protocol terms SDO and SRO](#Q3)
+- Q4: [Outline the differences between MISP and OpenCTI](#Q4)
 
 ### Q1
 **What's the difference between CybOX and VERIS**
