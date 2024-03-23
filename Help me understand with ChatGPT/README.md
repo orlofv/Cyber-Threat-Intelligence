@@ -3,6 +3,7 @@ All the questions I asked to ChatGPT for concepts I had trouble understanding or
 
 ## Q&A Index
 - [What's the difference between CybOX and VERIS](#What's-the-difference-between-CybOX-and-VERIS)
+- [Which are the most common/popular frameworks and protocols used in CTI today (2024)?](Which-are-the-most-common/popular-frameworks-and-protocols-used-in-CTI-today-(2024)?)
 
 ### What's the difference between CybOX and VERIS
 
