@@ -49,14 +49,20 @@ So, using STIX, you're building a model out of these LEGO blocks (SDOs) and conn
 ### Q4 
 **Outline the differences between MISP and OpenCTI**  
 
-MISP
-Focus: MISP is primarily focused on the sharing of indicators of compromise (IoCs) among different organizations and entities. Its main aim is to improve the global sharing of malware and threat information.
-Use Case: Ideal for organizations looking to contribute to and benefit from shared cybersecurity threat databases, especially in terms of malware and indicators of compromise.
-Features:
+MISP  
+Focus: MISP is primarily focused on the sharing of indicators of compromise (IoCs) among different organizations and entities. Its main aim is to improve the global sharing of malware and threat information.  
+
+Use Case: Ideal for organizations looking to contribute to and benefit from shared cybersecurity threat databases, especially in terms of malware and indicators of compromise.  
+
+Features:  
 Offers a rich set of features to support the management and sharing of IoCs.
-Enables the correlation of events and indicators for a comprehensive analysis of threats.
-Provides functionalities for threat intelligence gathering, distribution, and analysis.
-Community: Has a strong community support with a wide range of integrations and plugins developed by the community.
+- Enables the correlation of events and indicators for a comprehensive analysis of threats.
+- Provides functionalities for threat intelligence gathering, distribution, and analysis.
+  
+Community:
+Has a strong community support with a wide range of integrations and plugins developed by the community.  
+
+
 OpenCTI
 Focus: OpenCTI is designed as a platform for managing the knowledge of cyber threat intelligence. It not only deals with indicators of compromise but also focuses on the analysis, visualization, and sharing of the tactical, operational, and strategic aspects of cyber threats.
 Use Case: Best suited for organizations that require a broad view of the threat landscape, including detailed analysis and contextual information about threats, beyond just IoCs.
