@@ -1,5 +1,5 @@
 # Description 
-All the questions I asked to ChatGPT for concepts I had trouble understanding or needed a different take. 
+All the questions I asked ChatGPT, concepts I had trouble understanding or needed a different take. 
 
 ## Q&A Index
 - [What's the difference between CybOX and VERIS](#Q1)
