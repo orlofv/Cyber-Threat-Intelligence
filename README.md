@@ -39,7 +39,7 @@ management system.
 [STIX](
 ## 4. Help Me Understand with ChatGPT :) 
 
-Q&A with ChatGPT
+Q&A with ChatGPT -> Created a separete [folder](https://github.com/slashparity/CTI-Resources/tree/main/Help%20Me%20Understand%20with%20ChatGPT%20%3A)
 
 
 
