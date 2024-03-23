@@ -49,6 +49,9 @@ So, using STIX, you're building a model out of these LEGO blocks (SDOs) and conn
 ### Q4 
 **Outline the differences between MISP and OpenCTI**  
 
+
+Both platforms are widely used in the cyber threat intelligence community for managing and sharing threat intelligence, but they have distinct characteristics and focuses.  
+
 **MISP**
 
 Focus: MISP is primarily focused on the sharing of indicators of compromise (IoCs) among different organizations and entities. Its main aim is to improve the global sharing of malware and threat information.  
