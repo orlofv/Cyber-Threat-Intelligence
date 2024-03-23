@@ -1,5 +1,5 @@
-# crtia
-An exhaustive collection of resources used in my studies for the CRTIA
+# Project Description
+An exhaustive collection of resources I used in my and studie for the CRTIA exam.
 
 ## Table of Contents 
 - [1. Blog posts & Articles](#1-blog-posts--articles)
