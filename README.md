@@ -38,8 +38,9 @@ management system.
 
 [CybOX](https://cybox.mitre.org/about/) - Provides a standard for defining indicator details known as observables  
 [STIX](
-## [4. Help Me Understand with ChatGPT :)](https://github.com/slashparity/CTI-Resources/tree/main/Help%20me%20understand%20with%20ChatGPT#description) 
 
+## 4. Help Me Understand with ChatGPT :)
+[Every question I asked ChatGPT](https://github.com/slashparity/CTI-Resources/tree/main/Help%20me%20understand%20with%20ChatGPT#description) 
 
 
 
