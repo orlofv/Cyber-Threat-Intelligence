@@ -36,7 +36,8 @@ Mitre has developed three standards that each fill different needs for a CTI
 management system.  
 
 
-- [CybOX](https://cybox.mitre.org/about/) - Provides a standard for defining indicator details known as observables  
+- [CybOX](https://cybox.mitre.org/about/) - Provides a standard for defining indicator details known as observables
+  
 - [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) - A language and serialization format used to exchange cyber threat intelligence (json format)  
   - [SDO & SRO Examples](https://oasis-open.github.io/cti-documentation/stix/walkthrough) - Stix Domain Object & Stix Relationship Object   
 
