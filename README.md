@@ -12,11 +12,11 @@ An exhaustive collection of resources I used in my and studie for the CRTIA exam
 
   
 ## 1. Blog posts & Articles 
-Getting started in cyber threat intelligence: [4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
+- Getting started in cyber threat intelligence: [4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
 
-A Top 10 [Reading List](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798) if You’re Getting Started in Cyber Threat Intelligence 
+- A Top 10 [Reading List](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798) if You’re Getting Started in Cyber Threat Intelligence 
 
-CTI [Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)  
+- CTI [Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)  
 
 ## 2. Tools & Collections
 https://github.com/hslatman/awesome-threat-intelligence  
@@ -44,6 +44,7 @@ management system.
 
 ## 4. Definitions 
 [Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical
+[ISAC](https://en.wikipedia.org/wiki/Information_Sharing_and_Analysis_Center) - Information Sharing and Analysis Center
 
 ## 4. Help Me Understand with ChatGPT :)
 [Every question I asked ChatGPT](https://github.com/slashparity/CTI-Resources/tree/main/Help%20me%20understand%20with%20ChatGPT#description) 
