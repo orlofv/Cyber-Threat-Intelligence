@@ -34,7 +34,7 @@ https://github.com/hslatman/awesome-threat-intelligence
 
 [VERIS](https://github.com/vz-risk/veris)   - Vocabulary for Event Recording and Incident Sharing (verizon)
 
-### 3.1 Mitre Standards - CTI management  
+### 3.1 MITRE Standards - CTI management  
 Mitre has developed three standards that each fill different needs for a CTI
 management system.  
 
@@ -42,7 +42,9 @@ management system.
 - [CybOX](https://cybox.mitre.org/about/) - Provides a standard for defining indicator details known as observables
   
 - [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) - A language and serialization format used to exchange cyber threat intelligence (json format)  
-  - [SDO & SRO Examples](https://oasis-open.github.io/cti-documentation/stix/walkthrough) - Stix Domain Object & Stix Relationship Object   
+  - [SDO & SRO Examples](https://oasis-open.github.io/cti-documentation/stix/walkthrough) - Stix Domain Object & Stix Relationship Object
+
+- [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) - Trusted Automated Exchange of Intelligence Information
 
 ## 4. Definitions 
 [Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical  
