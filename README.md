@@ -16,7 +16,9 @@ An exhaustive collection of resources I used in my and studie for the CRTIA exam
 
 - A Top 10 [Reading List](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798) if You’re Getting Started in Cyber Threat Intelligence 
 
-- CTI [Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)  
+- CTI [Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)
+
+- ISAC [list](https://learningsomecti.medium.com/list-of-information-sharing-and-analysis-center-united-states-f4d5743f85d2) US
 
 ## 2. Tools & Collections
 https://github.com/hslatman/awesome-threat-intelligence  
