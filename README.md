@@ -45,7 +45,8 @@ management system.
   - [SDO & SRO Examples](https://oasis-open.github.io/cti-documentation/stix/walkthrough) - Stix Domain Object & Stix Relationship Object   
 
 ## 4. Definitions 
-[Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical
+[Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical  
+
 [ISAC](https://en.wikipedia.org/wiki/Information_Sharing_and_Analysis_Center) - Information Sharing and Analysis Center
 
 ## 4. Help Me Understand with ChatGPT :)
