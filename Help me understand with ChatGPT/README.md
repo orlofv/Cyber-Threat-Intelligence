@@ -112,9 +112,13 @@ Usefulness: Great for internal analysis and reporting but may not be as directly
 
 **5. CybOX/STIX/TAXII**  
 Purpose: This trio is often used together to describe, package, and transport cyber threat intelligence.  
+
 CybOX: Describes the observable state of cybersecurity information.  
+
 STIX: Structures the information into actionable intelligence.  
+
 TAXII: Defines the protocol for exchanging this information.  
+
 Usefulness: Highly relevant for your needs. It enables the aggregation, analysis, and sharing of intelligence in a structured format, ideal for centralizing information and creating   additional feeds.  
 
 **6. OTX (Open Threat Exchange)**
