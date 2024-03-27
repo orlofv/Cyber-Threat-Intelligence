@@ -32,7 +32,9 @@ https://github.com/hslatman/awesome-threat-intelligence
 
 [OpenIOC](https://www.mandiant.com/resources/blog/openioc-basics) - Mandiant  
 
-[VERIS](https://github.com/vz-risk/veris)   - Vocabulary for Event Recording and Incident Sharing (verizon)
+[VERIS](https://github.com/vz-risk/veris) - Vocabulary for Event Recording and Incident Sharing (verizon)  
+
+CFI [1](https://csirtgadgets.com/collective-intelligence-framework) [2](https://github.com/csirtgadgets/cif-v5#getting-started) - The Collective Intelligence Framework
 
 ### 3.1 MITRE Standards - CTI management  
 Mitre has developed three standards that each fill different needs for a CTI
