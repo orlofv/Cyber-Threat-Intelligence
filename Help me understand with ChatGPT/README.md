@@ -119,7 +119,7 @@ STIX: Structures the information into actionable intelligence.
 
 TAXII: Defines the protocol for exchanging this information.  
 
-Usefulness: Highly relevant for your needs. It enables the aggregation, analysis, and sharing of intelligence in a structured format, ideal for centralizing information and creating   additional feeds.  
+Usefulness: It enables the aggregation, analysis, and sharing of intelligence in a structured format, ideal for centralizing information and creating additional feeds.  
 
 **6. OTX (Open Threat Exchange)**
 Purpose: A platform for sharing threat intelligence among community members.
@@ -127,9 +127,7 @@ Usefulness: Useful for enhancing your feeds with community-sourced intelligence 
 
 **7. CIF (Collective Intelligence Framework)**  
 Purpose: A tool for aggregating, sharing, and analyzing threat intelligence from various sources.  
-Usefulness: Useful if you're looking to collect and manage large volumes of data. Its focus on aggregation aligns with your goal, but consider its overlap with existing solutions and the  
-specific functionalities you need.  
-
+Usefulness: Useful if you're looking to collect and manage large volumes of data.
 **8. OpenCTI**  
 Purpose: An open-source platform designed for managing, analyzing, and sharing threat intelligence.  
-Usefulness: Highly recommended for your scenario. OpenCTI not only allows for the aggregation of intelligence from multiple sources but also supports the creation of additional feeds and   procedures. Its ability to integrate with other tools and frameworks can significantly enhance your CTI project.  
+Usefulness: OpenCTI not only allows for the aggregation of intelligence from multiple sources but also supports the creation of additional feeds and   procedures. Its ability to integrate with other tools and frameworks can significantly enhance your CTI project.  
