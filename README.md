@@ -1,5 +1,5 @@
 # Project Description
-An exhaustive collection of resources I used in my and studie for the CRTIA exam.
+A collection of CTI related resources.
 
 ## Table of Contents 
 - [1. Blog posts & Articles](#1-blog-posts--articles)
