@@ -1,5 +1,5 @@
 # Project Description
-A collection of CTI related resources.
+A collection of CTI terms, frameworks & resources.
 
 ## Table of Contents 
 - [1. Blog posts & Articles](#1-blog-posts--articles)
