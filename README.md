@@ -25,6 +25,13 @@ https://github.com/hslatman/awesome-threat-intelligence
 
 [urlscan](https://urlscan.io/)  
 
+[abuse.ch](https://abuse.ch/)  
+  - [Malware Bazaar](https://bazaar.abuse.ch/) - A resource for sharing malware samples.  
+  - [Feodo Tracker](https://feodotracker.abuse.ch/) - A resource used to track botnet command and control (C2) infrastructure linked with Emotet, Dridex and TrickBot.  
+  - [SSL Blacklist](https://sslbl.abuse.ch/) - A resource for collecting and providing a blocklist for malicious SSL certificates and JA3/JA3s fingerprints.  
+  - [URL Haus](https://urlhaus.abuse.ch/) - A resource for sharing malware distribution sites.  
+  - [Threat Fox](https://threatfox.abuse.ch/) - A resource for sharing indicators of compromise (IOCs).  
+
 ## 3. Standards and Frameworks
 [TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol 
 
