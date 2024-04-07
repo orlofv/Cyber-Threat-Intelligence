@@ -22,6 +22,7 @@ A collection of CTI terms, frameworks & resources.
 
 ## 2. Tools & Collections
 https://github.com/hslatman/awesome-threat-intelligence  
+[urlscan](https://urlscan.io/)
 
 ## 3. Standards and Frameworks
 [TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol 
