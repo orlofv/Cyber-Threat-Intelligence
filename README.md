@@ -25,7 +25,7 @@ https://github.com/hslatman/awesome-threat-intelligence
 
 [urlscan](https://urlscan.io/)  
 
-[abuse.ch](https://abuse.ch/)  
+[abuse.ch](https://abuse.ch/) - Research project hosted by the Institue for Cybersecurity and Engineering at the Bern University of Applied Sciences in Switzerland.
   - [Malware Bazaar](https://bazaar.abuse.ch/) - A resource for sharing malware samples.  
   - [Feodo Tracker](https://feodotracker.abuse.ch/) - A resource used to track botnet command and control (C2) infrastructure linked with Emotet, Dridex and TrickBot.  
   - [SSL Blacklist](https://sslbl.abuse.ch/) - A resource for collecting and providing a blocklist for malicious SSL certificates and JA3/JA3s fingerprints.  
