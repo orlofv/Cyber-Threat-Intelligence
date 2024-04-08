@@ -133,7 +133,7 @@ Usefulness: Useful if you're looking to collect and manage large volumes of data
 Purpose: An open-source platform designed for managing, analyzing, and sharing threat intelligence.  
 Usefulness: OpenCTI not only allows for the aggregation of intelligence from multiple sources but also supports the creation of additional feeds and   procedures. Its ability to integrate with other tools and frameworks can significantly enhance your CTI project.  
 
-###Q6  
+### Q6  
 **How does JA3 detection work**  
 
 Malware developers often hardcode SSL/TLS configurations within their malware to communicate securely with command and control (C&C) servers, exfiltrate data, or receive updates and instructions. SSL/TLS configurations specify the  
@@ -143,7 +143,7 @@ Here's why:
 
 JA3 is a method of fingerprinting the SSL/TLS client-side handshake process. It creates a hash out of the SSL/TLS version, accepted ciphers, list of extensions, elliptic curves, and elliptic curve formats. Since these elements can  vary significantly across different clients and implementations, the resulting JA3 hash serves as a kind of digital fingerprint of the client's SSL/TLS configuration.  
 
-**Why Malware Uses Hardcoded SSL/TLS Configurations  **
+**Why Malware Uses Hardcoded SSL/TLS Configurations**  
 Stealth and Evasion: Malware aims to avoid detection by security mechanisms. By using specific SSL/TLS configurations that might not be commonly used by legitimate software, malware can evade signature-based detection systems that  
 are configured to recognize more commonly observed configurations.  
 Reliability: Hardcoding SSL/TLS configurations ensures that the malware communicates with its C&C servers in a predictable and reliable manner, minimizing the risk of connection failures due to incompatible or unsupported onfigurations.  
