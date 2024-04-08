@@ -7,7 +7,7 @@ A collection of CTI terms, frameworks & resources.
 - [3. Standards & Frameworks](#3-standards-and-frameworks)
   -   [3.1 Mitre Standards - CTI management](#31-mitre-standards---cti-management)
 - [4. Definitions](#4-definitions)  
-- [4. Help Me Understand with ChatGPT :)](https://github.com/slashparity/CTI-Resources/tree/main/Help%20me%20understand%20with%20ChatGPT#description)
+- [5. Help Me Understand with ChatGPT :)](https://github.com/slashparity/CTI-Resources/tree/main/Help%20me%20understand%20with%20ChatGPT#description)
 
 
   
@@ -57,7 +57,7 @@ management system.
 
 - [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) - Trusted Automated Exchange of Intelligence Information
 
-## 4. Definitions 
+## 5. Definitions 
 [Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical  
 
 [ISAC](https://en.wikipedia.org/wiki/Information_Sharing_and_Analysis_Center) - Information Sharing and Analysis Center
