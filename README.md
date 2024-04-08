@@ -21,7 +21,6 @@ A collection of CTI terms, frameworks & resources.
 - ISAC [list](https://learningsomecti.medium.com/list-of-information-sharing-and-analysis-center-united-states-f4d5743f85d2) US
 
 - [JA3](https://securitytrails.com/blog/ja3-fingerprinting) Fingerprtinting
-
 - [PhisTool](https://www.phishtool.com/) - Seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security.
 
 ## 2. Tools & Collections
