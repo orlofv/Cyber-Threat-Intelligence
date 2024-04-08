@@ -1,5 +1,5 @@
 # Project Description
-A collection of CTI terms, frameworks & resources.
+A collection of CTI resources. It's a work in progress, expect regular updates!
 
 ## Table of Contents 
 - [1. Blog posts & Articles](#1-blog-posts--articles)
