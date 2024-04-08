@@ -25,6 +25,7 @@ A collection of CTI resources. It's a work in progress, expect regular updates!
 - [Yara](https://github.com/virustotal/yara) - Identify and classify malware samples.
     - [YaraCI](https://yara-ci.cloud.virustotal.com/) - Automated scanning of yara rule
 - [urlscan](https://urlscan.io/)
+- [Cuckoo Sandbox](https://github.com/cuckoosandbox) - Open source dynamic malware analysis system
 - [PhisTool](https://www.phishtool.com/) - Seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security.
 - [OpenCTI](https://github.com/OpenCTI-Platform/opencti) - Threat Intelligence Platform (open source)
 
