@@ -20,7 +20,7 @@ A collection of CTI terms, frameworks & resources.
 
 - ISAC [list](https://learningsomecti.medium.com/list-of-information-sharing-and-analysis-center-united-states-f4d5743f85d2) US
 
-- [JA3 Fingerprtinting](https://securitytrails.com/blog/ja3-fingerprinting)
+- [JA3](https://securitytrails.com/blog/ja3-fingerprinting) Fingerprtinting
 
 ## 2. Tools & Collections
 https://github.com/hslatman/awesome-threat-intelligence  
