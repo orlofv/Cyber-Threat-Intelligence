@@ -21,7 +21,7 @@ A collection of CTI terms, frameworks & resources.
 
 
 ## 2. Tools & Collections
-- https://github.com/hslatman/awesome-threat-intelligence  
+- [Awesome Threat Intel](https://github.com/hslatman/awesome-threat-intelligence) collection repository 
 - [urlscan](https://urlscan.io/)
 - [PhisTool](https://www.phishtool.com/) - Seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security.
 
