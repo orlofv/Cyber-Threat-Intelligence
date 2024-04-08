@@ -24,6 +24,7 @@ A collection of CTI resources. It's a work in progress, expect regular updates!
 - [Awesome Threat Intel](https://github.com/hslatman/awesome-threat-intelligence) collection repository 
 - [urlscan](https://urlscan.io/)
 - [PhisTool](https://www.phishtool.com/) - Seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security.
+- [OpenCTI](https://github.com/OpenCTI-Platform/opencti) - Threat Intelligence Platform (open source)
 
 [abuse.ch](https://abuse.ch/) - Research project hosted by the Institue for Cybersecurity and Engineering at the Bern University of Applied Sciences in Switzerland.
   - [Malware Bazaar](https://bazaar.abuse.ch/) - A resource for sharing malware samples.  
