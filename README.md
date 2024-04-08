@@ -11,7 +11,7 @@ A collection of CTI terms, frameworks & resources.
 
 
   
-## 1. Blog posts & Articles 
+## 1. Blog posts, Articles & Guides
 - Getting started in cyber threat intelligence: [4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
 
 - A Top 10 [Reading List](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798) if You’re Getting Started in Cyber Threat Intelligence 
@@ -21,6 +21,8 @@ A collection of CTI terms, frameworks & resources.
 - ISAC [list](https://learningsomecti.medium.com/list-of-information-sharing-and-analysis-center-united-states-f4d5743f85d2) US
 
 - [JA3](https://securitytrails.com/blog/ja3-fingerprinting) Fingerprtinting
+
+- [PhisTool](https://www.phishtool.com/) - Seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security.
 
 ## 2. Tools & Collections
 https://github.com/hslatman/awesome-threat-intelligence  
