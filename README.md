@@ -18,12 +18,13 @@ A collection of CTI terms, frameworks & resources.
 - CTI [Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)
 - ISAC [list](https://learningsomecti.medium.com/list-of-information-sharing-and-analysis-center-united-states-f4d5743f85d2) US
 - [JA3](https://securitytrails.com/blog/ja3-fingerprinting) Fingerprtinting
-- [PhisTool](https://www.phishtool.com/) - Seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security.
+
 
 ## 2. Tools & Collections
 https://github.com/hslatman/awesome-threat-intelligence  
 
-[urlscan](https://urlscan.io/)  
+- [urlscan](https://urlscan.io/)
+- [PhisTool](https://www.phishtool.com/) - Seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security.
 
 [abuse.ch](https://abuse.ch/) - Research project hosted by the Institue for Cybersecurity and Engineering at the Bern University of Applied Sciences in Switzerland.
   - [Malware Bazaar](https://bazaar.abuse.ch/) - A resource for sharing malware samples.  
