@@ -39,6 +39,8 @@ A collection of CTI resources. It's a work in progress, expect regular updates!
 ## 3. Standards and Frameworks
 [TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol 
 
+[TIBER-EU](https://www.ecb.europa.eu/pub/pdf/other/ecb.tiber_eu_framework.en.pdf) - Applying CTI to Red Team exercises
+
 [MILE](https://datatracker.ietf.org/wg/mile/about/) - Managed Incident Lightweight Exchange workgroup
   - [IODEF](https://datatracker.ietf.org/doc/rfc8274/) - Incident Object Description Exchange
   - [RID](https://datatracker.ietf.org/doc/rfc6545/) - Real time Inter-network Defense
