@@ -5,7 +5,7 @@ A collection of CTI resources. It's a work in progress, expect regular updates!
 - [1. Blog posts & Articles](#1-blog-posts--articles)
 - [2. Tools & Collections](#2-tools--collections)
 - [3. Standards & Frameworks](#3-standards-and-frameworks)
-  -   [3.1 Mitre Standards - CTI management](#31-mitre-standards---cti-management)
+  -   [3.1 Mitre Standards](#31-mitre-standards---cti-management) - CTI management
   -   [3.2 Threat Modeling](#32-Threat-Modeling) - STRIDE/PASTA/DREAD
 - [4. Definitions](#4-definitions)  
 - [5. Help Me Understand with ChatGPT :)](https://github.com/slashparity/CTI-Resources/tree/main/Help%20me%20understand%20with%20ChatGPT#description)
