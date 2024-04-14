@@ -6,6 +6,7 @@ A collection of CTI resources. It's a work in progress, expect regular updates!
 - [2. Tools & Collections](#2-tools--collections)
 - [3. Standards & Frameworks](#3-standards-and-frameworks)
   -   [3.1 Mitre Standards - CTI management](#31-mitre-standards---cti-management)
+  -   [3.2 Threat Modeling] - STRIDE/PASTA/DREAD(#32-Threat-Modeling)
 - [4. Definitions](#4-definitions)  
 - [5. Help Me Understand with ChatGPT :)](https://github.com/slashparity/CTI-Resources/tree/main/Help%20me%20understand%20with%20ChatGPT#description)
 
@@ -61,6 +62,9 @@ management system.
   - [SDO & SRO Examples](https://oasis-open.github.io/cti-documentation/stix/walkthrough) - Stix Domain Object & Stix Relationship Object
 
 - [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) - Trusted Automated Exchange of Intelligence Information
+
+### 3.2 Threat Modeling
+A process by which potential threats, such as structural vulnerabilities, can be identified, enumerated, and prioritized – all from a hypothetical attacker’s point of view.
 
 ## 4. Definitions 
 [Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical  
