@@ -64,7 +64,8 @@ management system.
 - [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) - Trusted Automated Exchange of Intelligence Information
 
 ### 3.2 Threat Modeling
-A process by which potential threats, such as structural vulnerabilities, can be identified, enumerated, and prioritized – all from a hypothetical attacker’s point of view.
+A process by which potential threats, such as structural vulnerabilities, can be identified, enumerated, and prioritized – all from a hypothetical attacker’s point of view.  
+- [Threat Models Comparison](https://www.softwaresecured.com/post/comparison-of-stride-dread-pasta)
 
 ## 4. Definitions 
 [Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical  
