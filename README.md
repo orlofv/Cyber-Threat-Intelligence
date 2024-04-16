@@ -71,7 +71,8 @@ A process by which potential threats, such as structural vulnerabilities, can be
 - [Octave threat model](https://www.iriusrisk.com/resources-blog/octave-threat-modeling-methodologies) 
 
 ## 4. Definitions 
-[Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical  
+- [Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical
+- [Threat Intelligence Lifecycle](https://socradar.io/5-stages-of-the-threat-intelligence-lifecycle/) - The 5 stages of TI (planning, collection, processing, production&analysis, dissemination)  
 
 [ISAC](https://en.wikipedia.org/wiki/Information_Sharing_and_Analysis_Center) - Information Sharing and Analysis Center
 
