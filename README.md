@@ -67,7 +67,8 @@ management system.
 
 ### 3.2 Threat Modeling
 A process by which potential threats, such as structural vulnerabilities, can be identified, enumerated, and prioritized – all from a hypothetical attacker’s point of view.  
-- [Threat Models Comparison](https://www.softwaresecured.com/post/comparison-of-stride-dread-pasta)
+- [Threat Models Comparison](https://www.softwaresecured.com/post/comparison-of-stride-dread-pasta) - STRIDE/PASTA/DREAD
+- [Octave threat model](https://www.iriusrisk.com/resources-blog/octave-threat-modeling-methodologies) 
 
 ## 4. Definitions 
 [Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical  
