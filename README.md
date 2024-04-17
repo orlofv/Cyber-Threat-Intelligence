@@ -18,7 +18,9 @@ A collection of CTI resources. It's a work in progress, expect regular updates!
 - CTI [Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)
 - ISAC [list](https://learningsomecti.medium.com/list-of-information-sharing-and-analysis-center-united-states-f4d5743f85d2) US
 - [JA3](https://securitytrails.com/blog/ja3-fingerprinting) Fingerprtinting
+- [Analysis of competing hypotheses](https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses)
 - How Does [Analysis of Competing Hypotheses](https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf) Improve Intelligence Analysis?
+
 
 
 ## 2. Tools & Collections
