@@ -18,7 +18,6 @@ A collection of CTI resources. It's a work in progress, expect regular updates!
 - CTI [Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)
 - ISAC [list](https://learningsomecti.medium.com/list-of-information-sharing-and-analysis-center-united-states-f4d5743f85d2) US
 - [JA3](https://securitytrails.com/blog/ja3-fingerprinting) Fingerprtinting
-- [Analysis of competing hypotheses](https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses)
 - How Does [Analysis of Competing Hypotheses](https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf) Improve Intelligence Analysis?
 
 
@@ -75,6 +74,7 @@ A process by which potential threats, such as structural vulnerabilities, can be
 ## 4. Definitions 
 - [Types of CTI](https://www.bluevoyant.com/knowledge-center/cyber-threat-intelligence-cti-definition-types-process) - Strategic, Tactical, Operational, Technical
 - [Threat Intelligence Lifecycle](https://socradar.io/5-stages-of-the-threat-intelligence-lifecycle/) - The 5 stages of TI (planning, collection, processing, production&analysis, dissemination)
+- [Analysis of competing hypotheses](https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses)
 - [ISAC](https://en.wikipedia.org/wiki/Information_Sharing_and_Analysis_Center) - Information Sharing and Analysis Center
 
 ## 5. Help Me Understand with ChatGPT :)
