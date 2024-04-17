@@ -14,11 +14,11 @@ A collection of CTI resources. It's a work in progress, expect regular updates!
   
 ## 1. Blog posts, Articles & Guides
 - Getting started in cyber threat intelligence: [4 pieces of advice](https://redcanary.com/blog/getting-started-in-cyber-threat-intelligence/)  
-
 - A Top 10 [Reading List](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798) if You’re Getting Started in Cyber Threat Intelligence 
 - CTI [Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)
 - ISAC [list](https://learningsomecti.medium.com/list-of-information-sharing-and-analysis-center-united-states-f4d5743f85d2) US
 - [JA3](https://securitytrails.com/blog/ja3-fingerprinting) Fingerprtinting
+- [How Does [Analysis of Competing Hypotheses](https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf) Improve Intelligence Analysis?
 
 
 ## 2. Tools & Collections
