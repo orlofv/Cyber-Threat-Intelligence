@@ -26,6 +26,7 @@ A collection of CTI resources. It's a work in progress, expect regular updates!
 
 ## 2. Tools & Collections
 - [Awesome Threat Intel](https://github.com/hslatman/awesome-threat-intelligence) collection repository
+- [Cyber Gordon](https://cybergordon.com/)
 - [Yara](https://github.com/virustotal/yara) - Identify and classify malware samples.
     - [YaraCI](https://yara-ci.cloud.virustotal.com/) - Automated scanning of yara rule
 - [allien vault OTX](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community.  
