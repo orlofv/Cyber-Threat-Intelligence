@@ -4,6 +4,7 @@ A collection of Cyber Threat Intelligence resources. It's a work in progress, ex
 ## Table of Contents 
 - [1. Blog posts & Articles](#1-blog-posts--articles)
 - [2. Tools & Collections](#2-tools--collections)
+  -   [2.1 IPs, Domains, Malware](#21-IPs-Domains-Malware)
 - [3. Standards & Frameworks](#3-standards-and-frameworks)
   -   [3.1 Mitre Standards](#31-mitre-standards---cti-management) - CTI management
   -   [3.2 Threat Modeling](#32-Threat-Modeling) - STRIDE/PASTA/DREAD
@@ -25,22 +26,27 @@ A collection of Cyber Threat Intelligence resources. It's a work in progress, ex
 
 
 ## 2. Tools & Collections
-- [Awesome Threat Intel](https://github.com/hslatman/awesome-threat-intelligence) collection repository
-- [Cyber Gordon](https://cybergordon.com/)
-- [Yara](https://github.com/virustotal/yara) - Identify and classify malware samples.
-    - [YaraCI](https://yara-ci.cloud.virustotal.com/) - Automated scanning of yara rule
-- [allien vault OTX](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community.  
-- [urlscan](https://urlscan.io/)
-- [Cuckoo Sandbox](https://github.com/cuckoosandbox) - Open source dynamic malware analysis system
-- [VirusTotal](https://www.virustotal.com/gui/home/search) - Online service that analyzes suspicious files and URLs to detect types of malware and malicious content using antivirus engines and website scanners.  
-- [PhisTool](https://www.phishtool.com/) - Seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security.
-- [OpenCTI](https://github.com/OpenCTI-Platform/opencti) - Threat Intelligence Platform (open source)
+
+### 2.1 IPs, Domains, Malware
 - [abuse.ch](https://abuse.ch/) - Identify and track cyber threats
   - [Malware Bazaar](https://bazaar.abuse.ch/) - A resource for sharing malware samples.  
   - [Feodo Tracker](https://feodotracker.abuse.ch/) - A resource used to track botnet command and control (C2) infrastructure linked with Emotet, Dridex and TrickBot.  
   - [SSL Blacklist](https://sslbl.abuse.ch/) - A resource for collecting and providing a blocklist for malicious SSL certificates and JA3/JA3s fingerprints.  
   - [URL Haus](https://urlhaus.abuse.ch/) - A resource for sharing malware distribution sites.  
-  - [Threat Fox](https://threatfox.abuse.ch/) - A resource for sharing indicators of compromise (IOCs).  
+  - [Threat Fox](https://threatfox.abuse.ch/) - A resource for sharing indicators of compromise (IOCs).
+- [allien vault OTX](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community.  
+- [urlscan](https://urlscan.io/)
+- [VirusTotal](https://www.virustotal.com/gui/home/search) - Online service that analyzes suspicious files and URLs to detect types of malware and malicious content using antivirus engines and website scanners.
+- [Cyber Gordon](https://cybergordon.com/)  
+
+### 2.2 Misc
+- [Awesome Threat Intel](https://github.com/hslatman/awesome-threat-intelligence) collection repository
+- [Yara](https://github.com/virustotal/yara) - Identify and classify malware samples.
+    - [YaraCI](https://yara-ci.cloud.virustotal.com/) - Automated scanning of yara rule
+- [Cuckoo Sandbox](https://github.com/cuckoosandbox) - Open source dynamic malware analysis system
+- [PhisTool](https://www.phishtool.com/) - Seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security.
+- [OpenCTI](https://github.com/OpenCTI-Platform/opencti) - Threat Intelligence Platform (open source)
+
 
 ## 3. Standards and Frameworks
 [TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol 
