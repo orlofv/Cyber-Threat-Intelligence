@@ -81,6 +81,7 @@ A process by which potential threats, such as structural vulnerabilities, can be
 - [Threat Intelligence Lifecycle](https://socradar.io/5-stages-of-the-threat-intelligence-lifecycle/) - The 5 stages of TI (planning, collection, processing, production&analysis, dissemination)
 - [Analysis of competing hypotheses](https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses)
 - [ISAC](https://en.wikipedia.org/wiki/Information_Sharing_and_Analysis_Center) - Information Sharing and Analysis Center
+- [PESTLE-MG](https://pestleanalysis.com/what-is-pestle-analysis/) analysis - Political, Economic, Social, Technological, Legal, Enviromental (MG - Military/Government)
 - [MTTR, MTTD, MTTF, and MTBF?](https://www.logicmonitor.com/blog/whats-the-difference-between-mttr-mttd-mttf-and-mtbf#:~:text=What%20is%20MTTI%3F,system%20to%20identify%20an%20issue.) - What’s the difference between the various mean times 
 
 ## 5. Help Me Understand with ChatGPT :)
