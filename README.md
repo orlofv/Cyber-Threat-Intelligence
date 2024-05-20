@@ -1,5 +1,6 @@
 # Project Description
-A collection of Cyber Threat Intelligence resources. It's a work in progress, expect regular updates!
+An extensive collection of Cyber Threat Intelligence resources. Articles, Tools, Standards, Definitions & more.  
+It's a work in progress, expect regular updates!
 
 ## Table of Contents 
 - [1. Blog posts & Articles](#1-blog-posts--articles)
