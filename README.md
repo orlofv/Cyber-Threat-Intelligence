@@ -52,19 +52,15 @@ It's a work in progress, expect regular updates!
 
 ## 3. Standards and Frameworks
 [TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol 
-
 [TIBER-EU](https://www.ecb.europa.eu/pub/pdf/other/ecb.tiber_eu_framework.en.pdf) - Applying CTI to Red Team exercises  
-
-[Diamond Model](https://www.threatintel.academy/wp-content/uploads/2020/07/diamond_summary.pdf) - The Diamond Model of Intrusion Analysis 
+[Diamond Model](https://www.threatintel.academy/wp-content/uploads/2020/07/diamond_summary.pdf) - The Diamond Model of Intrusion Analysis   
 
 [MILE](https://datatracker.ietf.org/wg/mile/about/) - Managed Incident Lightweight Exchange workgroup
   - [IODEF](https://datatracker.ietf.org/doc/rfc8274/) - Incident Object Description Exchange
   - [RID](https://datatracker.ietf.org/doc/rfc6545/) - Real time Inter-network Defense
 
 [OpenIOC](https://www.mandiant.com/resources/blog/openioc-basics) - Mandiant  
-
 [VERIS](https://github.com/vz-risk/veris) - Vocabulary for Event Recording and Incident Sharing (verizon)  
-
 CFI [1](https://csirtgadgets.com/collective-intelligence-framework) [2](https://github.com/csirtgadgets/cif-v5#getting-started) - The Collective Intelligence Framework
 
 ### 3.1 MITRE Standards - CTI management  
