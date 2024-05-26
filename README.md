@@ -54,7 +54,6 @@ It's a work in progress, expect regular updates!
 [TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol 
 [TIBER-EU](https://www.ecb.europa.eu/pub/pdf/other/ecb.tiber_eu_framework.en.pdf) - Applying CTI to Red Team exercises  
 [Diamond Model](https://www.threatintel.academy/wp-content/uploads/2020/07/diamond_summary.pdf) - The Diamond Model of Intrusion Analysis   
-
 [MILE](https://datatracker.ietf.org/wg/mile/about/) - Managed Incident Lightweight Exchange workgroup
   - [IODEF](https://datatracker.ietf.org/doc/rfc8274/) - Incident Object Description Exchange
   - [RID](https://datatracker.ietf.org/doc/rfc6545/) - Real time Inter-network Defense
@@ -69,10 +68,8 @@ management system.
 
 
 - [CybOX](https://cybox.mitre.org/about/) - Provides a standard for defining indicator details known as observables
-  
 - [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) - A language and serialization format used to exchange cyber threat intelligence (json format)  
   - [SDO & SRO Examples](https://oasis-open.github.io/cti-documentation/stix/walkthrough) - Stix Domain Object & Stix Relationship Object
-
 - [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) - Trusted Automated Exchange of Intelligence Information
 
 ### 3.2 Threat Modeling
