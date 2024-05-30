@@ -86,6 +86,7 @@ A process by which potential threats, such as structural vulnerabilities, can be
 - [ISAC](https://en.wikipedia.org/wiki/Information_Sharing_and_Analysis_Center) - Information Sharing and Analysis Center
 - [PESTLE-MG](https://pestleanalysis.com/what-is-pestle-analysis/) analysis - Political, Economic, Social, Technological, Legal, Enviromental (MG - Military/Government)
 - [MSCoW](https://www.techtarget.com/searchsoftwarequality/definition/MoSCoW-method) Prioritization
+- [RACI](https://www.forbes.com/advisor/business/raci-chart/) Matrix - Responsible, Accountable, Consulted, Informed
 - [MTTR, MTTD, MTTF, and MTBF?](https://www.logicmonitor.com/blog/whats-the-difference-between-mttr-mttd-mttf-and-mtbf#:~:text=What%20is%20MTTI%3F,system%20to%20identify%20an%20issue.) - What’s the difference between the various mean times 
 
 ## 5. Help Me Understand with ChatGPT :)
