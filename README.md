@@ -24,6 +24,7 @@ It's a work in progress, expect regular updates!
 - How Does [Analysis of Competing Hypotheses](https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf) Improve Intelligence Analysis?
 - [What is Cyber Threat Intelligence](https://www.crest-approved.org/wp-content/uploads/2022/04/CREST-Cyber-Threat-Intelligence.pdf) and how is it used
 - Definitive [guide](https://cryptome.org/2015/09/cti-guide.pdf) to CTI - Using Knowledge about Adversaries to win the war against targeted attacks
+- [Digital Footprint](https://smowl.net/en/blog/what-does-digital-footprints-mean/#:~:text=While%20digital%20footprints%20refer%20to,often%20without%20the%20individual's%20knowledge.) - Digital Footprint vs Digital Shadow
 
 
 
