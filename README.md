@@ -25,7 +25,6 @@ It's a work in progress, expect regular updates!
 - [What is Cyber Threat Intelligence](https://www.crest-approved.org/wp-content/uploads/2022/04/CREST-Cyber-Threat-Intelligence.pdf) and how is it used
 - Definitive [guide](https://cryptome.org/2015/09/cti-guide.pdf) to CTI - Using Knowledge about Adversaries to win the war against targeted attacks
 - [Digital Footprint](https://smowl.net/en/blog/what-does-digital-footprints-mean/#:~:text=While%20digital%20footprints%20refer%20to,often%20without%20the%20individual's%20knowledge.) - Traces left behind | Digital Footprint vs Digital Shadow
-- [The National Intelligence Model (5x5x5)](https://www.gov.uk/hmrc-internal-manuals/money-laundering-regulations-compliance/mlr3c14000#:~:text=A%20number%20of%20law%20enforcement,informally%20as%20the%205x5x5%20system.) - Source Evaluation / Intelligence Evaluation / Handling Code
 
 
 
@@ -53,16 +52,18 @@ It's a work in progress, expect regular updates!
 
 
 ## 3. Standards and Frameworks
-[TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol 
-[TIBER-EU](https://www.ecb.europa.eu/pub/pdf/other/ecb.tiber_eu_framework.en.pdf) - Applying CTI to Red Team exercises  
-[Diamond Model](https://www.threatintel.academy/wp-content/uploads/2020/07/diamond_summary.pdf) - The Diamond Model of Intrusion Analysis   
-[MILE](https://datatracker.ietf.org/wg/mile/about/) - Managed Incident Lightweight Exchange workgroup
+- [The National Intelligence Model (5x5x5)](https://www.gov.uk/hmrc-internal-manuals/money-laundering-regulations-compliance/mlr3c14000#:~:text=A%20number%20of%20law%20enforcement,informally%20as%20the%205x5x5%20system.) - Source Evaluation / Intelligence Evaluation / Handling Code
+- [Nato Admirality Scale](https://www.srmam.com/post/what-is-the-admiralty-scale) - Two-character notation. Evaluating colledted items of intelligence. 
+- [TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol 
+- [TIBER-EU](https://www.ecb.europa.eu/pub/pdf/other/ecb.tiber_eu_framework.en.pdf) - Applying CTI to Red Team exercises  
+- [Diamond Model](https://www.threatintel.academy/wp-content/uploads/2020/07/diamond_summary.pdf) - The Diamond Model of Intrusion Analysis   
+- [MILE](https://datatracker.ietf.org/wg/mile/about/) - Managed Incident Lightweight Exchange workgroup
   - [IODEF](https://datatracker.ietf.org/doc/rfc8274/) - Incident Object Description Exchange
   - [RID](https://datatracker.ietf.org/doc/rfc6545/) - Real time Inter-network Defense
 
-[OpenIOC](https://www.mandiant.com/resources/blog/openioc-basics) - Mandiant  
-[VERIS](https://github.com/vz-risk/veris) - Vocabulary for Event Recording and Incident Sharing (verizon)  
-CFI [1](https://csirtgadgets.com/collective-intelligence-framework) [2](https://github.com/csirtgadgets/cif-v5#getting-started) - The Collective Intelligence Framework
+- [OpenIOC](https://www.mandiant.com/resources/blog/openioc-basics) - Mandiant  
+- [VERIS](https://github.com/vz-risk/veris) - Vocabulary for Event Recording and Incident Sharing (verizon)  
+- CFI [1](https://csirtgadgets.com/collective-intelligence-framework) [2](https://github.com/csirtgadgets/cif-v5#getting-started) - The Collective Intelligence Framework
 
 ### 3.1 MITRE Standards - CTI management  
 Mitre has developed three standards that each fill different needs for a CTI
