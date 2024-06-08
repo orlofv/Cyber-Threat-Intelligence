@@ -25,6 +25,7 @@ It's a work in progress, expect regular updates!
 - [What is Cyber Threat Intelligence](https://www.crest-approved.org/wp-content/uploads/2022/04/CREST-Cyber-Threat-Intelligence.pdf) and how is it used
 - Definitive [guide](https://cryptome.org/2015/09/cti-guide.pdf) to CTI - Using Knowledge about Adversaries to win the war against targeted attacks
 - [Digital Footprint](https://smowl.net/en/blog/what-does-digital-footprints-mean/#:~:text=While%20digital%20footprints%20refer%20to,often%20without%20the%20individual's%20knowledge.) - Traces left behind | Digital Footprint vs Digital Shadow
+- [The National Intelligence Model (5x5x5)](https://www.gov.uk/hmrc-internal-manuals/money-laundering-regulations-compliance/mlr3c14000#:~:text=A%20number%20of%20law%20enforcement,informally%20as%20the%205x5x5%20system.) - Source Evaluation / Intelligence Evaluation / Handling Code
 
 
 
