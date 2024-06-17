@@ -3,7 +3,7 @@ An extensive collection of Cyber Threat Intelligence resources. Articles, Tools,
 It's a work in progress, expect regular updates!
 
 ## Table of Contents 
-- [1. Videos, blog posts & articles](#1-blog-posts--articles)
+- [1. Videos, blog posts & articles](#1-blog-posts-articles--guides)
 - [2. Tools & Collections](#2-tools--collections)
   -   [2.1 IPs, Domains, Malware](#21-IPs-Domains-Malware)
   -   [2.2 Misc](#22-Misc)
