@@ -25,6 +25,7 @@ It's a work in progress, expect regular updates!
 - [What is Cyber Threat Intelligence](https://www.crest-approved.org/wp-content/uploads/2022/04/CREST-Cyber-Threat-Intelligence.pdf) and how is it used
 - Definitive [guide](https://cryptome.org/2015/09/cti-guide.pdf) to CTI - Using Knowledge about Adversaries to win the war against targeted attacks
 - [Digital Footprint](https://smowl.net/en/blog/what-does-digital-footprints-mean/#:~:text=While%20digital%20footprints%20refer%20to,often%20without%20the%20individual's%20knowledge.) - Traces left behind | Digital Footprint vs Digital Shadow
+- [Cone of Plausibility](https://www.secalliance.com/blog/applying-cone-of-plausibility-to-cti) - Applying Cone of Plausibility to CTI
 - [SANS CTI Summit 2018](https://www.youtube.com/watch?v=PtYWVzY2Ves) - There Is MOAR To Structured Analytic Techniques Than Just ACH!
 
 
