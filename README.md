@@ -27,6 +27,7 @@ It's a work in progress, expect regular updates!
 - [Digital Footprint](https://smowl.net/en/blog/what-does-digital-footprints-mean/#:~:text=While%20digital%20footprints%20refer%20to,often%20without%20the%20individual's%20knowledge.) - Traces left behind | Digital Footprint vs Digital Shadow
 - [Cone of Plausibility](https://www.secalliance.com/blog/applying-cone-of-plausibility-to-cti) - Applying Cone of Plausibility to CTI
 - [SANS CTI Summit 2018](https://www.youtube.com/watch?v=PtYWVzY2Ves) - There Is MOAR To Structured Analytic Techniques Than Just ACH!
+- [Actor Network Theory](https://youtu.be/X57uy0ahlZk) - Brief explanation of Bruno Latour's theory
 
 
 
