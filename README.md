@@ -22,12 +22,14 @@ It's a work in progress, expect regular updates!
 - ISAC [list](https://learningsomecti.medium.com/list-of-information-sharing-and-analysis-center-united-states-f4d5743f85d2) US
 - [JA3](https://securitytrails.com/blog/ja3-fingerprinting) Fingerprtinting
 - How Does [Analysis of Competing Hypotheses](https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf) Improve Intelligence Analysis?
-- [What is Cyber Threat Intelligence](https://www.crest-approved.org/wp-content/uploads/2022/04/CREST-Cyber-Threat-Intelligence.pdf) and how is it used
+- [What is Cyber Threat Intelligence](https://www.crest-approved.org/wp-content/uploads/2022/04/CREST-Cyber-Threat-Intelligence.pdf) and how is it used - CREST
+- [What is CTI](https://www.crowdstrike.com/cybersecurity-101/threat-intelligence/) - Crowdstrike
 - Definitive [guide](https://cryptome.org/2015/09/cti-guide.pdf) to CTI - Using Knowledge about Adversaries to win the war against targeted attacks
 - [Digital Footprint](https://smowl.net/en/blog/what-does-digital-footprints-mean/#:~:text=While%20digital%20footprints%20refer%20to,often%20without%20the%20individual's%20knowledge.) - Traces left behind | Digital Footprint vs Digital Shadow
 - [Cone of Plausibility](https://www.secalliance.com/blog/applying-cone-of-plausibility-to-cti) - Applying Cone of Plausibility to CTI
 - [SANS CTI Summit 2018](https://www.youtube.com/watch?v=PtYWVzY2Ves) - There Is MOAR To Structured Analytic Techniques Than Just ACH!
 - [Actor Network Theory](https://youtu.be/X57uy0ahlZk) - Brief explanation of Bruno Latour's theory
+- [Why](https://correlatedsecurity.com/why-cyber-threat-intelligence-informed-security-operations-is-important/)"Cyber Threat Intelligence-Informed Services" Should Be Part of Your Cyber Security Strategy
 
 
 
