@@ -60,7 +60,7 @@ It's a work in progress, expect regular updates!
 
 ## 3. Standards and Frameworks
 - [The National Intelligence Model (5x5x5)](https://www.gov.uk/hmrc-internal-manuals/money-laundering-regulations-compliance/mlr3c14000#:~:text=A%20number%20of%20law%20enforcement,informally%20as%20the%205x5x5%20system.) - Source Evaluation / Intelligence Evaluation / Handling Code
-- [Nato Admirality Scale](https://www.srmam.com/post/what-is-the-admiralty-scale) - Two-character notation. Evaluating colledted items of intelligence.
+- [Nato Admiralty Scale](https://www.srmam.com/post/what-is-the-admiralty-scale) - Two-character notation. Evaluating colledted items of intelligence.
 - [TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol
 - [TIBER-EU](https://www.ecb.europa.eu/pub/pdf/other/ecb.tiber_eu_framework.en.pdf) - Applying CTI to Red Team exercises 
 - [Diamond Model](https://www.threatintel.academy/wp-content/uploads/2020/07/diamond_summary.pdf) - The Diamond Model of Intrusion Analysis
