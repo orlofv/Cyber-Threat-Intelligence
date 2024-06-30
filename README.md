@@ -43,9 +43,11 @@ It's a work in progress, expect regular updates!
   - [URL Haus](https://urlhaus.abuse.ch/) - A resource for sharing malware distribution sites.  
   - [Threat Fox](https://threatfox.abuse.ch/) - A resource for sharing indicators of compromise (IOCs).
 - [allien vault OTX](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community.  
-- [urlscan](https://urlscan.io/)
+- [urlscan](https://urlscan.io/) - Easily and confidently analyse unknown and potentially malicious websites
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - Online service that analyzes suspicious files and URLs to detect types of malware and malicious content using antivirus engines and website scanners.
-- [Cyber Gordon](https://cybergordon.com/)  
+- [Cyber Gordon](https://cybergordon.com/) - Quickly provides you threat and risk information about observables like IP address or web domain.
+
+
 
 ### 2.2 Misc
 - [Awesome Threat Intel](https://github.com/hslatman/awesome-threat-intelligence) collection repository
