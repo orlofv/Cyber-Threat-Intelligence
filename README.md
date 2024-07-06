@@ -11,7 +11,6 @@ It's a work in progress, expect regular updates!
   -   [3.1 Mitre Standards](#31-mitre-standards---cti-management) - CTI management
   -   [3.2 Threat Modeling](#32-Threat-Modeling) - STRIDE/PASTA/DREAD
 - [4. Definitions](#4-definitions)  
-- [5. Help Me Understand with ChatGPT :)](https://github.com/slashparity/CTI-Resources/tree/main/Help%20me%20understand%20with%20ChatGPT#description)
 
 
   
@@ -101,8 +100,6 @@ A process by which potential threats, such as structural vulnerabilities, can be
 - [MTTR, MTTD, MTTF, and MTBF?](https://www.logicmonitor.com/blog/whats-the-difference-between-mttr-mttd-mttf-and-mtbf#:~:text=What%20is%20MTTI%3F,system%20to%20identify%20an%20issue.) - What’s the difference between the various mean times
 - [Morphological Analysis](https://firmbee.com/morphological-analysis) - A method for identifying, structuring and investigating the total set of possible relationships contained in a given multidimensional problem
 
-## 5. Help Me Understand with ChatGPT :)
-[CTI related questions that I asked ChatGPT](https://github.com/slashparity/CTI-Resources/tree/main/Help%20me%20understand%20with%20ChatGPT#description) 
 
 
 
