@@ -9,8 +9,8 @@ It's a work in progress, expect regular updates!
    - 2.1 [IPs, Domains, Malware](#21-ips-domains-malware)  
    - 2.2 [Miscellaneous](#22-misc)  
 3. [Standards & Frameworks](#3-standards--frameworks)  
-   - 3.1 [MITRE Standards - CTI Management](#31-mitre-standards---cti-management)  
-   - 3.2 [Threat Modeling](#32-threat-modeling) - STRIDE/PASTA/DREAD]
+   - 3.1 [MITRE Standards](#31-mitre-standards---cti-management) - CTI Management  
+   - 3.2 [Threat Modeling](#32-threat-modeling) - STRIDE/PASTA/DREAD  
 4. [Definitions](#4-definitions)
 
 
