@@ -2,15 +2,17 @@
 An extensive collection of Cyber Threat Intelligence resources. Articles, Tools, Standards, Definitions & more.  
 It's a work in progress, expect regular updates!
 
-## Table of Contents 
-1. [Videos, blog posts & articles](#1-blog-posts-articles--guides)  
-2. [Tools & Collections](#2-tools--collections)  
-  2.1 [IPs, Domains, Malware](#21-IPs-Domains-Malware)  
-  2.2 [Misc](#22-Misc)  
-3. [Standards & Frameworks](#3-standards-and-frameworks)  
-   3.1 [Mitre Standards](#31-mitre-standards---cti-management) - CTI management  
-   3.2 [Threat Modeling](#32-Threat-Modeling) - STRIDE/PASTA/DREAD  
-4. [Definitions](#4-definitions)    
+## Table of Contents
+
+1. [Videos, Blog Posts & Articles](#1-videos-blog-posts-articles)
+2. [Tools & Collections](#2-tools-collections)  
+   2.1 [IPs, Domains, Malware](#21-ips-domains-malware)  
+   2.2 [Miscellaneous](#22-miscellaneous)
+3. [Standards & Frameworks](#3-standards-frameworks)  
+   3.1 [Mitre Standards - CTI Management](#31-mitre-standards-cti-management)  
+   3.2 [Threat Modeling - STRIDE/PASTA/DREAD](#32-threat-modeling-stride-pasta-dread)
+4. [Definitions](#4-definitions)
+
 
 
   
