@@ -4,10 +4,10 @@ It's a work in progress, expect regular updates!
 
 ## Table of Contents
 
-**1. [Videos, Blog Posts & Articles](#1-blog-posts-articles--guides)**  
+1. [Videos, Blog Posts & Articles](#1-blog-posts-articles--guides)  
 2. [Tools & Collections](#2-tools--collections)  
-   2.1 [IPs, Domains, Malware](#21-ips-domains-malware)  
-   2.2 [Miscellaneous](#22-misc)  
+   - 2.1 [IPs, Domains, Malware](#21-ips-domains-malware)  
+   - 2.2 [Miscellaneous](#22-misc)  
 3. [Standards & Frameworks](#3-standards--frameworks)  
    3.1 [MITRE Standards - CTI Management](#31-mitre-standards---cti-management)  
    3.2 [Threat Modeling - STRIDE/PASTA/DREAD](#32-threat-modeling---stridepasta/dread)
