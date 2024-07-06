@@ -20,7 +20,7 @@ It's a work in progress, expect regular updates!
 - A Top 10 [Reading List](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798) if You’re Getting Started in Cyber Threat Intelligence 
 - CTI [Reading List](https://sroberts.medium.com/cti-reading-list-a93ccdd7469c)
 - ISAC [list](https://learningsomecti.medium.com/list-of-information-sharing-and-analysis-center-united-states-f4d5743f85d2) US
-- [JA3](https://securitytrails.com/blog/ja3-fingerprinting) Fingerprtinting
+- [JA3](https://securitytrails.com/blog/ja3-fingerprinting) Fingerprinting
 - How Does [Analysis of Competing Hypotheses](https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf) Improve Intelligence Analysis?
 - [What is Cyber Threat Intelligence](https://www.crest-approved.org/wp-content/uploads/2022/04/CREST-Cyber-Threat-Intelligence.pdf) and how is it used - CREST
 - [What is CTI](https://www.crowdstrike.com/cybersecurity-101/threat-intelligence/) - Crowdstrike
@@ -30,7 +30,7 @@ It's a work in progress, expect regular updates!
 - [SANS CTI Summit 2018](https://www.youtube.com/watch?v=PtYWVzY2Ves) - There Is MOAR To Structured Analytic Techniques Than Just ACH!
 - [Quick wins for busy analysts](https://assets.college.police.uk/s3fs-public/2021-07/foia-2021-058.pdf) 
 - [Actor Network Theory](https://youtu.be/X57uy0ahlZk) - Brief explanation of Bruno Latour's theory
-- [Why](https://correlatedsecurity.com/why-cyber-threat-intelligence-informed-security-operations-is-important/) "Cyber Threat Intelligence-Informed Services" Should Be Part of Your Cyber Security Strategy
+- [Why](https://correlatedsecurity.com/why-cyber-threat-intelligence-informed-security-operations-is-important/) "Cyber Threat Intelligence Services" Should Be Part of Your Cyber Security Strategy
 
 
 
@@ -38,22 +38,22 @@ It's a work in progress, expect regular updates!
 
 ### 2.1 IPs, Domains, Malware
 - [abuse.ch](https://abuse.ch/) - Identify and track cyber threats
-  - [Malware Bazaar](https://bazaar.abuse.ch/) - A resource for sharing malware samples.  
+  - [Malware Bazaar](https://bazaar.abuse.ch/) - A resource for sharing malware samples  
   - [Feodo Tracker](https://feodotracker.abuse.ch/) - A resource used to track botnet command and control (C2) infrastructure linked with Emotet, Dridex and TrickBot.  
   - [SSL Blacklist](https://sslbl.abuse.ch/) - A resource for collecting and providing a blocklist for malicious SSL certificates and JA3/JA3s fingerprints.  
   - [URL Haus](https://urlhaus.abuse.ch/) - A resource for sharing malware distribution sites.  
   - [Threat Fox](https://threatfox.abuse.ch/) - A resource for sharing indicators of compromise (IOCs).
-- [allien vault OTX](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community.  
-- [urlscan](https://urlscan.io/) - Easily and confidently analyse unknown and potentially malicious websites
+- [Allien Vault OTX](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community.  
+- [urlscan.io](https://urlscan.io/) - Easily and confidently analyse unknown and potentially malicious websites
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - Online service that analyzes suspicious files and URLs to detect types of malware and malicious content using antivirus engines and website scanners.
-- [Cyber Gordon](https://cybergordon.com/) - Quickly provides you threat and risk information about observables like IP address or web domain.
+- [Cyber Gordon](https://cybergordon.com/) - Quickly provides you threat and risk information about observables like IP address or web domains.
 
 
 
 ### 2.2 Misc
 - [Awesome Threat Intel](https://github.com/hslatman/awesome-threat-intelligence) - Collection repository
-- [Yara](https://github.com/virustotal/yara) - Identify and classify malware samples.
-    - [YaraCI](https://yara-ci.cloud.virustotal.com/) - Automated scanning of yara rule
+- [YARA](https://github.com/virustotal/yara) - Identify and classify malware samples.
+    - [YARACI](https://yara-ci.cloud.virustotal.com/) - Automated scanning of YARA rule
 - [Cuckoo Sandbox](https://github.com/cuckoosandbox) - Open source dynamic malware analysis system
 - [PhisTool](https://www.phishtool.com/) - Seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security.
 - [OpenCTI](https://github.com/OpenCTI-Platform/opencti) - Threat Intelligence Platform (open source)
@@ -61,7 +61,7 @@ It's a work in progress, expect regular updates!
 
 ## 3. Standards & Frameworks
 - [The National Intelligence Model (5x5x5)](https://www.gov.uk/hmrc-internal-manuals/money-laundering-regulations-compliance/mlr3c14000#:~:text=A%20number%20of%20law%20enforcement,informally%20as%20the%205x5x5%20system.) - Source Evaluation / Intelligence Evaluation / Handling Code
-- [Nato Admiralty Scale](https://www.srmam.com/post/what-is-the-admiralty-scale) - Two-character notation. Evaluating colledted items of intelligence.
+- [Nato Admiralty Scale](https://www.srmam.com/post/what-is-the-admiralty-scale) - Two-character notation. Evaluating collected items of intelligence.
 - [TLP](https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage)  - Traffic Light Protocol
 - [TIBER-EU](https://www.ecb.europa.eu/pub/pdf/other/ecb.tiber_eu_framework.en.pdf) - Applying CTI to Red Team exercises 
 - [Diamond Model](https://www.threatintel.academy/wp-content/uploads/2020/07/diamond_summary.pdf) - The Diamond Model of Intrusion Analysis
