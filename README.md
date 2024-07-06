@@ -51,7 +51,7 @@ It's a work in progress, expect regular updates!
 
 
 ### 2.2 Misc
-- [Awesome Threat Intel](https://github.com/hslatman/awesome-threat-intelligence) collection repository
+- [Awesome Threat Intel](https://github.com/hslatman/awesome-threat-intelligence) - Collection repository
 - [Yara](https://github.com/virustotal/yara) - Identify and classify malware samples.
     - [YaraCI](https://yara-ci.cloud.virustotal.com/) - Automated scanning of yara rule
 - [Cuckoo Sandbox](https://github.com/cuckoosandbox) - Open source dynamic malware analysis system
