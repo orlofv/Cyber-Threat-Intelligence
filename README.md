@@ -4,7 +4,7 @@ It's a work in progress, expect regular updates!
 
 ## Table of Contents
 
-1. [Videos, Blog Posts & Articles](#1-videos-blog-posts--articles)
+[1. Videos, Blog Posts & Articles](#1-videos-blog-posts--articles)
 2. [Tools & Collections](#2-tools--collections)  
    2.1 [IPs, Domains, Malware](#21-ips-domains-malware)  
    2.2 [Miscellaneous](#22-miscellaneous)
