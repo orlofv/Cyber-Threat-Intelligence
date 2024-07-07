@@ -100,6 +100,7 @@ A process by which potential threats, such as structural vulnerabilities, can be
 - [RACI](https://www.forbes.com/advisor/business/raci-chart/) Matrix - Responsibility Assignment | Responsible, Accountable, Consulted, Informed
 - [MTTR, MTTD, MTTF, and MTBF?](https://www.logicmonitor.com/blog/whats-the-difference-between-mttr-mttd-mttf-and-mtbf#:~:text=What%20is%20MTTI%3F,system%20to%20identify%20an%20issue.) - What’s the difference between the various mean times
 - [Morphological Analysis](https://firmbee.com/morphological-analysis) - A method for identifying, structuring and investigating the total set of possible relationships contained in a given multidimensional problem
+- [WEP](https://en.wikipedia.org/wiki/Words_of_estimative_probability) - Words of Estimative Probability]
 
 
 
