@@ -51,6 +51,7 @@ It's a work in progress, expect regular updates!
 
 
 ### 2.2 Misc
+- [APT Reports & More](https://github.com/blackorbird/APT_REPORT) -  A collection of APT reports, information and IOC
 - [Awesome Threat Intel](https://github.com/hslatman/awesome-threat-intelligence) - Collection repository
 - [YARA](https://github.com/virustotal/yara) - Identify and classify malware samples.
     - [YARACI](https://yara-ci.cloud.virustotal.com/) - Automated scanning of YARA rule
