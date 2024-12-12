@@ -47,6 +47,7 @@ It's a work in progress, expect regular updates!
 - [urlscan.io](https://urlscan.io/) - Easily and confidently analyse unknown and potentially malicious websites
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - Online service that analyzes suspicious files and URLs to detect types of malware and malicious content using antivirus engines and website scanners.
 - [Cyber Gordon](https://cybergordon.com/) - Quickly provides you threat and risk information about observables like IP address or web domains.
+- [Hudson Rock Cybercrime Intelligence Toolset](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolset to indicate if an email address or domain was involved in Infostealer infection.
 
 
 
